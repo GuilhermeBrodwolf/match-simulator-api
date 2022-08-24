@@ -2,7 +2,7 @@
   {
     "descricao": "Eliminatórias da Copa 2022",
     "local" {
-      "nome": "Maracanã",
+      "estadio": "Maracanã",
       "imagem": "TODO"
     },
     "mandante" {
